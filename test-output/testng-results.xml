@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-13T17:03:08Z" name="Suite" finished-at="2024-04-13T17:03:16Z" duration-ms="7920">
+    <groups>
+    </groups>
+    <test started-at="2024-04-13T17:03:08Z" name="Test" finished-at="2024-04-13T17:03:16Z" duration-ms="7920">
+      <class name="Exercise10">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:Exercise10@2accdbb5]" started-at="2024-04-13T19:03:06Z" name="setUp" finished-at="2024-04-13T19:03:08Z" duration-ms="2715" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loggingWithCorrectUsernameAndIncorrectPassword()[pri:0, instance:Exercise10@2accdbb5]" started-at="2024-04-13T19:03:08Z" name="loggingWithCorrectUsernameAndIncorrectPassword" finished-at="2024-04-13T19:03:09Z" duration-ms="646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingWithCorrectUsernameAndIncorrectPassword -->
+        <test-method signature="loggingWithCorrectUsernameAndPassword()[pri:0, instance:Exercise10@2accdbb5]" started-at="2024-04-13T19:03:09Z" name="loggingWithCorrectUsernameAndPassword" finished-at="2024-04-13T19:03:16Z" duration-ms="6445" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingWithCorrectUsernameAndPassword -->
+        <test-method signature="loggingWithIncorrectUsernameAndPassword()[pri:0, instance:Exercise10@2accdbb5]" started-at="2024-04-13T19:03:16Z" name="loggingWithIncorrectUsernameAndPassword" finished-at="2024-04-13T19:03:16Z" duration-ms="424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingWithIncorrectUsernameAndPassword -->
+        <test-method signature="loggingWithemptyUsernameAndPassword()[pri:0, instance:Exercise10@2accdbb5]" started-at="2024-04-13T19:03:16Z" name="loggingWithemptyUsernameAndPassword" finished-at="2024-04-13T19:03:16Z" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loggingWithemptyUsernameAndPassword -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Exercise10@2accdbb5]" started-at="2024-04-13T19:03:16Z" name="tearDown" finished-at="2024-04-13T19:03:17Z" duration-ms="287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Exercise10 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
